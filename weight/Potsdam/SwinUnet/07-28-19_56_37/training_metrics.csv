@@ -1,0 +1,3 @@
+0,"tensor(0.5530, device='cuda:0', grad_fn=<DivBackward0>)",0.9652173214364628,0.3313432794653472,0.19304346428729255,0.0,0.01
+1,"tensor(0.3446, device='cuda:0', grad_fn=<DivBackward0>)",1.0,1.0,1.0,nan,0.006942531626616071
+2,"tensor(0.3809, device='cuda:0', grad_fn=<DivBackward0>)",1.0,1.0,1.0,nan,0.003720410580113015
